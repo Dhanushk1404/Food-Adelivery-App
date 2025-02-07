@@ -30,7 +30,4 @@ This food delivery app will be designed specifically for a single shop, enabling
 ## layout
 
 ![layout-1](imgs/doc-img-1.jpg)
-
-
-
 ![layout-1](imgs/doc-img-2.jpg)
