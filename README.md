@@ -24,7 +24,7 @@ This food delivery app will be designed specifically for a single shop, enabling
 1. Backend
     1. Node,js+Express.js
 1. Database
-    1. MongoDb
+    1. MongoDb && MongoAtlas
 
 
 ## layout
