@@ -29,8 +29,8 @@ This food delivery app will be designed specifically for a single shop, enabling
 
 ## layout
 
-![laoyot-1](doc-img-1.jpg)
+![laoyot-1](imgs\doc-img-1.jpg)
 
 
 
-![laoyot-1](doc-img-2.jpg)
+![laoyot-1](imgs\doc-img-2.jpg)
