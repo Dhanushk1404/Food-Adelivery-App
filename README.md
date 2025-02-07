@@ -25,3 +25,10 @@ This food delivery app will be designed specifically for a single shop, enabling
     1. Node,js+Express.js
 1. Database
     1. MongoDb
+
+
+## layout
+
+![laoyot-1](doc-img-1.jpg)
+
+![laoyot-1](doc-img-2.jpg)
