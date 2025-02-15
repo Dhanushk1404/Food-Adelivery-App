@@ -15,13 +15,13 @@ const dishes = [
   { id: 3, image: food3, name: "Fried Rice", price: 150 },
   { id: 4, image: food4, name: "Parrota", price: 200 },
   { id: 5, image: food5, name: "Doas", price: 100 },
-  { id: 6, image: food6, name: "Idly", price: 500 },
+  { id: 6, image: food6, name: "", price: 500 },
 ];
 
 const Dishes = () => {
   return (
     <section className="py-12 bg-gray-100" id="dishes">
-      <div className="text-center mt-4 mb-8">
+      <div className="text-center mt-8 mb-8">
         <h1 className="text-3xl font-bold">Popular Dishes</h1>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 px-4 md:px-12">

@@ -27,8 +27,8 @@ const menuItems = [
 const Menu = () => {
   return (
     <section className="py-12 bg-gray-100" id="menu">
-      <div className="text-center mb-8">
-        <h3 className="text-lg mt-4 text-green-600 uppercase">Our Menu</h3>
+      <div className="text-center mt-8 mb-8">
+        <h3 className="text-lg  text-green-600 uppercase">Our Menu</h3>
         <h1 className="text-3xl font-bold">Today's Special</h1>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 px-4 md:px-12">
